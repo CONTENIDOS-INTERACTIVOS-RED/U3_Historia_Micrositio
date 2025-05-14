@@ -119,7 +119,7 @@
           .col-lg-6.order-lg-1
     
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Roma y Grecia cunas de la civilización occidental"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
